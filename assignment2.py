@@ -1,3 +1,4 @@
+#! python3
 """
 (2 points) Create a new assignment file called "assignment2.py".  It should display the following:
 
